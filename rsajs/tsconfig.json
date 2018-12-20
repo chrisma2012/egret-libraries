@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "sourceMap": true,
+        "outFile": "bin/rsajs/rsajs.js",
+        "allowJs": true
+    },
+    "files": [
+        "src/rng.js",
+        "src/prng4.js",
+        "src/jsbn.js",
+        "src/rsa.js"
+    ]
+}
